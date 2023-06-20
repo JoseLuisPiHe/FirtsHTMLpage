@@ -1,0 +1,28 @@
+body{
+
+    margin: 0;
+}
+hr{
+    border-style: none;
+    border-color: rgb(120, 205, 154);
+    width: 10%;
+    border-width: thick;
+    border-top-style: dotted;
+    /*toda la linea de codigo de abajo se puede resumir en lo de arriba*/
+    /*border-left: 0;
+    border-right: 0;
+    border-bottom: 0;
+    border-width: thick;
+    */
+}
+.middle-container{
+    background-color: #FFF8D6;
+}
+.skills{
+    background-color: #F7E1AE;
+
+}
+.contact-me{
+    background-color: #A4D0A4;
+
+}
